@@ -3,11 +3,11 @@
 <suite name="Failed suite [Default suite]">
   <test name="Default test(failed)" preserve-order="true">
     <classes>
-      <class name="com.toolsqa.weather.deserilaizeSerializeTest">
+      <class name="com.toolsqa.weather.SimplePostTest">
         <methods>
-          <include name="RegistrationSuccessful"/>
+          <include name="postUserDetails"/>
         </methods>
-      </class> <!-- com.toolsqa.weather.deserilaizeSerializeTest -->
+      </class> <!-- com.toolsqa.weather.SimplePostTest -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
